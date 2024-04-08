@@ -1,0 +1,36 @@
+p {
+    font-size: 32px;
+    font-weight: bold;
+    color: orange;
+}
+
+
+.Likelion {
+    font-size: 32px;
+    font-weight: bold;
+    color: red;
+}
+
+#Name {
+    font-size: 32px;
+    font-weight: bold;
+    color: blue;
+
+}
+
+input[placeholder] {
+    border: 2px solid green;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+.bebas {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+}
