@@ -1,0 +1,25 @@
+#container{
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    padding: 1px;
+
+
+    display: flex;
+}
+
+.items{
+    width: 180px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#a{
+    order: 1;
+}
+
+#b{
+    order: -1;
+}
